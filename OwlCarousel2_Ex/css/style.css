@@ -1,0 +1,14 @@
+
+
+.item { height: 200px; background-color: greenyellow; text-align: center; line-height: 200px; font-size:60px; color:#fff; border-radius: 10px; }
+.item h4 { opacity: 1; position:relative; top: 30px; margin: 0;}
+.btn, .page{ text-align: center; margin-bottom: 10px; }
+.btn button, .page button { padding: 5px 10px; }
+
+
+.con { width: 240px; margin: 0 auto; }
+.con li {list-style: none; float: left; width: 80px; font-family: impact;
+position: relative; top:-30px; opacity: 0;}
+.slider { width: 960px; margin: 0 auto; }
+
+
