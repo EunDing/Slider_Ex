@@ -1,0 +1,25 @@
+*{ margin:0; padding: 0; }
+
+.container { margin: 100px auto 40px; overflow: hidden; position: relative; }
+
+.slider {overflow: hidden; 
+    position: relative; }
+
+.item { height: 250px; float: left; border: 2px solid #fff; 
+    box-sizing: border-box; border-radius: 10px; }
+
+.btn{text-align: center;}
+button { padding: 10px 20px; }
+
+
+.item1 { background-color: aquamarine; }
+.item2 { background-color: violet; }
+.item3 { background-color: sandybrown; }
+.item4 { background-color: chartreuse; }
+.item5 { background-color: blue; }
+.item6 { background-color: wheat; }
+.item7 { background-color: yellow; }
+.item8 { background-color: brown; }
+.item9 { background-color: fuchsia; }
+.item10 { background-color: plum;}
+

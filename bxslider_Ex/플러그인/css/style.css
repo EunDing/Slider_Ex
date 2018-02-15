@@ -1,0 +1,9 @@
+*{ margin: 0; padding: 0; }
+li { list-style: none; 
+}
+.slider { width: 1000px; margin : 100px auto; }
+.bxslider li { height: 200px; background-color: cornflowerblue; 
+    border : 3px solid #fff; 
+    text-align: center; line-height: 200px; font-size: 100px;
+    font-family: impact; color : #fff;
+}
